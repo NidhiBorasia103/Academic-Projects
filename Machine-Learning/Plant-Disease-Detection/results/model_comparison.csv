@@ -1,0 +1,3 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1-score,Weighted F1-score
+CNN without augmentation,80.63,77.8,71.3,72.1,80.0
+CNN with augmentation,76.45,72.86,68.34,68.75,76.06

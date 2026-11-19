@@ -1,0 +1,10 @@
+{
+  "experiment": "CNN with data augmentation",
+  "test_accuracy": 0.7645470169408298,
+  "macro_precision": 0.7286316545195608,
+  "macro_recall": 0.6834369634666142,
+  "macro_f1_score": 0.6875478642085219,
+  "weighted_f1_score": 0.7606001792492332,
+  "test_images": 8146,
+  "number_of_classes": 38
+}
